@@ -5,4 +5,4 @@ print('Köpönyeget hoztam vóna!')
 #F0001b:
 print('Rásír a sok kis malac is!')
 print('"Én is, én is, én is, én is!"')
-#idéző jelben idéző jel (másik fajta)
+#idézőjelben idézőjel (másik fajta!!!!!)
